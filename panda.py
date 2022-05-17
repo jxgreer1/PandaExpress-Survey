@@ -9,12 +9,12 @@ from selenium.webdriver.chrome.service import Service
 #*insert Stack Overflow Link
 #dont play with magic, it can bite
 
-def inputSurveyCode(code, lastDigit\s):
+def inputSurveyCode(code, lastDigits):
     global driver
     x=Service('C:\Program Files (x86)\chromedriver.exe')
     options = webdriver.ChromeOptions()
     options.add_experimental_option('excludeSwitches', ['enable-logging'])
-    driver = webdriver.Chrome()(service=x, options=options) 
+    driver = webdriver.Chrome(service=x, options=options) 
     driver.get("https://www.pandaguestexperience.com/")
 
     code4Digit = code.split(" ")
