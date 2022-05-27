@@ -11,4 +11,8 @@ Then you should be good to run
 
 Click Run Start Debug
 
-Its going to open a termina
+Its going to open a terminal 
+
+put in the code of your recipt with spaces instead of - 
+
+then, it will open chrome fast, do survery and output the thing to get free panda (:
