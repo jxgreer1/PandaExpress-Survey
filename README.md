@@ -4,3 +4,11 @@ First download the zip and support me
 
 
 next, in the vs code terminal your going to want to type in **Pip3 Install Selenium**  
+
+Then you should be good to run
+
+# TO RUN
+
+Click Run Start Debug
+
+Its going to open a termina
